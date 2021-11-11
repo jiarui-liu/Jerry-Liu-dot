@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 [<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Liu-dot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Liu-dot&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jerry_Liu_dot&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[<div align=center>![Jerry Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jerry_Liu_dot&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Liu-dot&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jerry-Liu-dot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
