@@ -3,7 +3,7 @@
 [<div align=center>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Liu-dot&theme=tokyonight&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<div align=center>![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jerry_Liu_dot&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[<div align=center>![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jerry_Liu_dot)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Liu-dot&langs_count=8&theme=tokyonight&hide=Makefile,CMake)](https://github.com/anuraghazra/github-readme-stats)
