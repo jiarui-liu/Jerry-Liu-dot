@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<div align=center>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Liu-dot&theme=tokyonight&hide=stars, issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<div align=center>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Liu-dot&theme=tokyonight&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<div align=center>![Time](https://github-readme-stats.vercel.app/api/wakatime?username=Jerry_Liu_dot&theme=tokyonight&layout=compact&langs_count=10&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
