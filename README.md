@@ -6,7 +6,7 @@
 [<div align=center>![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jerry_Liu_dot&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Liu-dot&langs_count=8&theme=tokyonight&hide=Makefile,CMake&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Liu-dot&theme=tokyonight&hide=Makefile,CMake&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 
 <!--
