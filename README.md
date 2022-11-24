@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Jiarui Liu, a senior student of Computer Science at the University of Michigan. Check my personal homepage for more details about me: [https://jiarui-liu.github.io](https://jiarui-liu.github.io).
+
 [<div align=center>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Liu-dot&theme=aura_dark&hide=stars,issues&count_private=true&show_icons=true)](https://github.Jerry-Liu-dot)
 
 
