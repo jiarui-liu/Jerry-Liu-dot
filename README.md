@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jiarui Liu, a senior student of Computer Science at the University of Michigan. Check my personal homepage for more details about me: [https://jiarui-liu.github.io](https://jiarui-liu.github.io).
+I am Jiarui Liu, a master student of Computer Science at CMU. Check my personal homepage for more details about me: [https://jiarui-liu.github.io](https://jiarui-liu.github.io).
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jiarui-liu&color=blueviolet"/>
