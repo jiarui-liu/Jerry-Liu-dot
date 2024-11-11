@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jiarui Liu, a computer science master student at CMU. Check my personal homepage for more details about me: [https://jiarui-liu.github.io](https://jiarui-liu.github.io).
+I am Jiarui Liu, a computer science master student at CMU. I am actively seeking PhD positions in 2025 Fall. Check my personal homepage for more details about me: [https://jiarui-liu.github.io](https://jiarui-liu.github.io).
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jiarui-liu&color=blueviolet"/>
